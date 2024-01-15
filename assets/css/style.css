@@ -198,8 +198,23 @@ text-align: center;
 /* ====================DESTINATION ENDED==================== */
 
 
-/* ==================== ==================== */
-/* ==================== ==================== */
+/* ====================CHOOS START==================== */
+.choos{}
+.choos .choos-title{}
+.choos .choos-title h2{}
+.choos .choos-title p{}
+.choos .choos-wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.choos .choos-wrapper .choos-item{
+    width: 50%;
+}
+.choos .choos-wrapper .choos-item img{}
+.choos .choos-wrapper .choos-item h3{}
+.choos .choos-wrapper .choos-item p{}
+/* ====================CHOOS ENDED==================== */
 /* ==================== ==================== */
 /* ==================== ==================== */
 /* ==================== ==================== */
